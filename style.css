@@ -6,5 +6,9 @@ body {
 #cabecalho {
     top: 0;
     position: fixed;
-    
+
+}
+
+article, aside {
+    display: inline-block;
 }
