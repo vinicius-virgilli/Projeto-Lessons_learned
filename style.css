@@ -12,8 +12,6 @@ body {
   position: fixed;
   left: 0;
   right: 0;
-  
-  
 }
 
 #cabecalho {
@@ -46,7 +44,6 @@ main {
 main h2,h3 {
   text-align: center;
 }
-
 
 .listas {
   left: 0;
@@ -85,10 +82,11 @@ main h2,h3 {
   max-width: 400px;
   padding: 50px;
   padding-top: 30px;
-  padding-bottom: 30px ;
+  padding-bottom: 30px;
 }
 
-.lado-esquerdo, .lado-direito {
+.lado-esquerdo,
+.lado-direito {
   color: white;
   vertical-align: text-top;
   width: 350px;
@@ -105,12 +103,12 @@ main h2,h3 {
 
 #rodape section {
   vertical-align: middle;
-  display: inline-block
+  display: inline-block;
 }
 
-.redes-sociais li{
+.redes-sociais li {
   margin-right: 10px;
-  display: inline-block
+  display: inline-block;
 }
 
 footer img {
@@ -128,6 +126,3 @@ footer p {
   border-radius: 100%;
   background-color: white;
 }
-
-
-
