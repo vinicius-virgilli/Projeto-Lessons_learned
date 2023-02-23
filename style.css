@@ -116,6 +116,15 @@ footer p {
   padding-bottom: 10px;
 }
 
+.assignment a {
+  text-decoration: none;
+  color: white;
+}
+
+.assignment a:hover {
+  color: yellow;
+}
+
 .logo-Github {
   border-radius: 100%;
   background-color: white;
