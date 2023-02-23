@@ -45,17 +45,17 @@ main h2,h3 {
   text-align: center;
 }
 
-.listas {
+.lists {
   left: 0;
   right: 0;
 }
 
-.listas table {
+.lists table {
   margin: auto;
 }
 
-.listas td {
-  line-height: 1.6;
+.lists td {
+  line-height: 1.5;
   vertical-align: text-top;
   padding: 50px;
   padding-top: 20px;
@@ -85,8 +85,7 @@ main h2,h3 {
   padding-bottom: 30px;
 }
 
-.lado-esquerdo,
-.lado-direito {
+.lado-esquerdo, .lado-direito {
   color: white;
   vertical-align: text-top;
   width: 350px;
@@ -106,7 +105,7 @@ main h2,h3 {
   display: inline-block;
 }
 
-.redes-sociais li {
+.social-media li {
   margin-right: 10px;
   display: inline-block;
 }
