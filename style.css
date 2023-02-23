@@ -7,14 +7,10 @@ body {
 }
 
 #cabecalho {
-  top: 0%;
   top: 0;
   position: fixed;
   left: 0;
   right: 0;
-}
-
-#cabecalho {
   top: 0;
   width: 70%;
   padding: 10px;
