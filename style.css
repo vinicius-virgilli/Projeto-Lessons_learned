@@ -36,7 +36,8 @@ main {
   margin-top: 160px;
 }
 
-main h2 , h3 {
+main h2,
+h3 {
   text-align: center;
 }
 
@@ -80,7 +81,8 @@ main h2 , h3 {
   padding-bottom: 30px;
 }
 
-.lado-esquerdo , .lado-direito {
+.lado-esquerdo,
+.lado-direito {
   color: white;
   vertical-align: text-top;
   width: 350px;
@@ -110,6 +112,11 @@ footer img {
   vertical-align: middle;
 }
 
+.logo-Github {
+  border-radius: 100%;
+  background-color: white;
+}
+
 footer p {
   font-size: small;
   margin-bottom: 0;
@@ -123,9 +130,4 @@ footer p {
 
 .assignment a:hover {
   color: yellow;
-}
-
-.logo-Github {
-  border-radius: 100%;
-  background-color: white;
 }
