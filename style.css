@@ -36,8 +36,7 @@ main {
   margin-top: 160px;
 }
 
-main h2,
-h3 {
+main h2, h3 {
   text-align: center;
 }
 
@@ -81,8 +80,7 @@ h3 {
   padding-bottom: 30px;
 }
 
-.lado-esquerdo,
-.lado-direito {
+.lado-esquerdo, .lado-direito {
   color: white;
   vertical-align: text-top;
   width: 350px;
